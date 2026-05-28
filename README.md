@@ -2,6 +2,14 @@
 
 AIHues 项目的智能助手工作仓库。
 
+## 🔗 关联仓库
+
+| 仓库 | 用途 | 链接 |
+|------|------|------|
+| **ai-hues-v6** | 代码仓库 | https://github.com/vastralan2001/ai-hues-v6 |
+| **aihues-context** (本仓库) | 项目上下文、日报、决策记录 | — |
+| **personal-context** | 个人通用记忆、跨项目上下文 | https://github.com/vastralan2001/personal-context |
+
 ## 目录结构
 
 ```
